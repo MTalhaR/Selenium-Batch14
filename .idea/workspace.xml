@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29922688-4e1e-422f-9ac4-9336b6df1f97" name="Changes" comment="Selenium">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drivers/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewSeleniumBatch14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class01/LaunchingBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class01/MaximizeWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class01/NavigateMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class01/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class02/Notes" afterDir="false" />
+    <list default="true" id="29922688-4e1e-422f-9ac4-9336b6df1f97" name="Changes" comment="Class01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class01/MaximizeWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class01/MaximizeWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +52,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666093735766</updated>
     </task>
+    <task id="LOCAL-00001" summary="Class01">
+      <created>1666196596283</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666196596283</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Class01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class01" />
   </component>
 </project>
