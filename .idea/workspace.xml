@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29922688-4e1e-422f-9ac4-9336b6df1f97" name="Changes" comment="Class01">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class01/MaximizeWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class01/MaximizeWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class02/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class02/Notes" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666196596283</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Class01">
+      <created>1666197635582</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666197635582</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
