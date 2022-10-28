@@ -11,23 +11,11 @@ public class HW2 {
         WebDriver driver=new ChromeDriver();
         driver.get("https://www.facebook.com/");
         driver.findElement(By.linkText("Create New Account")).click();
-        //driver.findElement(By.xpath("//a[@role='button']")).click();
-        //driver.findElement(By.cssSelector("a[role='button']")).click();
-        //driver.findElement(By.xpath("//input[@placeholder='First name']")).sendKeys("Talha");;
-        //driver.findElement(By.xpath("//*[@id=\"u_w_b_b0\"]")).sendKeys("Talha");
-
+        //driver.findElement(By.xpath("//a[text()='Create New Account']")).click();
         Thread.sleep(2000);
         driver.findElement(By.name("firstname")).sendKeys("Talha");
-
-
         driver.findElement(By.name("lastname")).sendKeys("Riaz");
-        driver.findElement(By.name("reg_email__")).sendKeys("talhariazmtrb@gmail.com");
-        driver.findElement(By.name("reg_passwd__")).sendKeys("0123456789");
-        driver.findElement(By.id("day")).sendKeys("21");
-        driver.findElement(By.id("month")).sendKeys("Apr");
-        driver.findElement(By.id("year")).sendKeys("1997");
-        Thread.sleep(1000);
-        driver.findElement(By.xpath("//input[@value='2']")).click();
+        driver.findElement(By.name("reg_email__")).sendKeys("abc@gmail.com");
         driver.findElement(By.xpath("//img[@class='_8idr img']")).click();
         driver.quit();
     }
