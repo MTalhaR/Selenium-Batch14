@@ -1,0 +1,60 @@
+Syntax for relative xpath:
+1.-----Xpath to identify by attribute------
+//tagname[@attribute='attribute value']
+//input[@id='box']
+
+
+2.-----Xpath to identify by text------
+//tagname[text() = 'text value']
+//a[text()='Forgotten password?']
+
+
+3.----Xpath to identify by contains Method------
+****for attributes****
+//tagname[contains(@attribute, 'partial attribute value')]
+//button[contains(@type , 'sub')]
+
+****for text****
+//tagname[contains(text(), 'partial text value')]
+//a[contains(text(),'Forgot')]
+
+
+4.-----Xpath to identify by starts with------
+//tagname[starts-with(@attribute, 'partial starting attribute value')]
+//input[starts-with(@name,'pa')]
+
+
+FOLLOWING CAN BE USED WITH ANY ABOVE TYPE OF XPATH  (AXES Methods)
+----XPath Concatenate
+//tagname[@attribute='attribute value'][@attribute='attribute value']
+
+****using AND OR****
+//tagname[@attribute='attribute value' and @attribute='attribute value']
+//tagname[@attribute='attribute value' or @attribute='attribute value']
+
+
+----XPath using indexing
+(//tagname[@attribute='attribute value'])[1]
+
+
+----XPath for Parent, Child, Self
+//tagname[@attribute='attribute value']//parent::tagname
+//tagname[@attribute='attribute value']//child::tagname
+//tagname[@attribute='attribute value']//self::tagname
+
+
+---XPath for descendant, descendant-or-self
+//tagname[@attribute='attribute value']//descendant::tagname
+//tagname[@attribute='attribute value']//descendant-or-self::tagname
+
+
+---XPath for ancestor, ancestor-or-self
+//tagname[@attribute='attribute value']//ancestor::tagname
+//tagname[@attribute='attribute value']//ancestor-or-self::tagname
+
+
+---XPath for following, following-or-sibling
+//tagname[@attribute='attribute value']//following::tagname
+//tagname[@attribute='attribute value']//following-or-sibling::tagname
+
+
