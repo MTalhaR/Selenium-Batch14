@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29922688-4e1e-422f-9ac4-9336b6df1f97" name="Changes" comment="XPath variations">
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class04/AdditionalMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class04/CssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class04/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class04/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class04/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class04/RadioButtons.java" afterDir="false" />
+    <list default="true" id="29922688-4e1e-422f-9ac4-9336b6df1f97" name="Changes" comment="class 04">
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/practice/masiha.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class04/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class04/HW2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667069532746</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="class 04">
+      <created>1667402991181</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667402991181</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +145,7 @@
     <MESSAGE value="Class03HW" />
     <MESSAGE value="Class02HW" />
     <MESSAGE value="XPath variations" />
-    <option name="LAST_COMMIT_MESSAGE" value="XPath variations" />
+    <MESSAGE value="class 04" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 04" />
   </component>
 </project>

@@ -29,7 +29,5 @@ public class HW2 {
             } else {
                 System.out.println(text+" is displayed : "+displayed);
             }
-
-
         }
 }
