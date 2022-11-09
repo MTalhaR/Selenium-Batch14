@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29922688-4e1e-422f-9ac4-9336b6df1f97" name="Changes" comment="class 05">
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/ReviewClass02/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/ReviewClass02/HW2.java" afterDir="false" />
+    <list default="true" id="29922688-4e1e-422f-9ac4-9336b6df1f97" name="Changes" comment="class 05HW">
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class06/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class06/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class06/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class06/Notes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/ReviewClass02/CheckBoxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/ReviewClass02/CheckBoxes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/ReviewClass02/DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/ReviewClass02/DropDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/ReviewClass02/EbayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/ReviewClass02/EbayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/ReviewClass02/PracticeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/ReviewClass02/PracticeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/ReviewClass02/RadioButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/ReviewClass02/RadioButtons.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667915789241</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="class 05HW">
+      <created>1667924880533</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667924880533</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +170,7 @@
     <MESSAGE value="XPath variations" />
     <MESSAGE value="class 04" />
     <MESSAGE value="class 05" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 05" />
+    <MESSAGE value="class 05HW" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 05HW" />
   </component>
 </project>
