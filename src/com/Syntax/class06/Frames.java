@@ -27,7 +27,7 @@ public class Frames {
 
 
 //        check the check box
-//seitch focu to the main page
+//switch focus to the main page
         driver.switchTo().defaultContent();
 
 //        switch to the frame containing the subframe which has checkbox
