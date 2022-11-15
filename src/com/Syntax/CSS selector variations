@@ -1,0 +1,67 @@
+Syntax for relative CSS selector:
+1.-----CSS selector to identify by attribute------
+        tagname[attribute='attribute value']
+        input[id='first_name']
+
+
+2.-----CSS selector to identify by ID------
+        '#' symbol represents contains ID attribute
+        tagname#elementID
+        input#first_name
+
+
+3.-----CSS selector to identify by Class------
+        '.' symbol represents class attribute
+        tagname.elementID
+        input.signup
+
+
+4.-----CSS selector to identify by contains/sub-string method------
+        '*' symbol represents contains/sub-string method
+        tagname[attribute *= 'partial attribute value']
+        input[placeholder *= 'Email']
+
+
+5.-----CSS selector to identify by starts-with/prefix method------
+        '^' symbol represents starts-with/prefix method in css
+        tagname[attribute ^= 'starting attribute value']
+        input[type ^= 'password']
+
+
+6.-----CSS selector to identify by ends-with/suffix method------
+        '$' symbol represents ends-with/suffix method in css
+        tagname[attribute $= 'ending attribute value']
+        img[src $= 'syntax.png']
+
+
+FOLLOWING CAN BE USED WITH ANY ABOVE TYPE OF XPATH  (AXES Methods)
+----CSS selector Concatenate
+        tagname[attribute='attribute value'][attribute='attribute value']
+        tagname.classValue[attribute='attribute value']
+        tagname#idValue[attribute='attribute value']
+
+
+----Finding child or sub-child elements-----
+        *** For direct child we use this symbol '>'
+        tagname[@attribute='attribute value'] > tagname[@attribute='attribute value']
+        *** For child or sub-child we use space ' '
+        tagname[@attribute='attribute value']   tagname[@attribute='attribute value']
+
+
+----Next sibling elements
+        *** For sibling elements we use this symbol '+'
+        tagname[@attribute='attribute value'] + tagname[@attribute='attribute value']
+
+
+*** CSS SELECTOR PSEUDO-CLASSES
+1----CSS selector for first child, last child, nth child and nth last child
+        tagname[@attribute='attribute value'] : first-child
+        tagname[@attribute='attribute value'] : last-child
+        tagname[@attribute='attribute value'] : nth-child()
+        tagname[@attribute='attribute value'] : nth-last-child()
+
+
+2----CSS selector for first of type, last of type, nth of type
+        tagname[@attribute='attribute value'] > tagname : first-of-type
+        tagname[@attribute='attribute value'] > tagname : last-of-type
+        tagname[@attribute='attribute value'] > tagname : nth-of-type()
