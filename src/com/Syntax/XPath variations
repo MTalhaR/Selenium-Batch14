@@ -27,6 +27,7 @@ Syntax for relative xpath:
 FOLLOWING CAN BE USED WITH ANY ABOVE TYPE OF XPATH  (AXES Methods)
 ----XPath Concatenate
 //tagname[@attribute='attribute value'][@attribute='attribute value']
+//input[@id='box'][contains(text(),'Forgot')]
 
 ****using AND OR****
 //tagname[@attribute='attribute value' and @attribute='attribute value']
@@ -34,7 +35,7 @@ FOLLOWING CAN BE USED WITH ANY ABOVE TYPE OF XPATH  (AXES Methods)
 
 
 ----XPath using indexing
-(//tagname[@attribute='attribute value'])[1]
+(//i[@id='box'])[1]
 
 
 ----XPath for Parent, Child, Self

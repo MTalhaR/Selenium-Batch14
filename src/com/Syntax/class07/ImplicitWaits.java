@@ -13,7 +13,7 @@ public class ImplicitWaits {
         System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe");
         // create a WebDriver instance
         WebDriver driver = new ChromeDriver();
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(20,TimeUnit.SECONDS);
 //  go to faceBook.com
         driver.get("https://www.facebook.com/");
 

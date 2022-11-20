@@ -26,6 +26,7 @@ public class HW1 {
         driver.findElement(By.xpath("//button[text()='Remove']")).click();
         WebElement message=driver.findElement(By.id("message"));
         String text=message.getText();
+        //System.out.println("The text is displayed? "+message.isDisplayed());
         if (message.isDisplayed()){
             System.out.println("The text is "+text);
         } else {

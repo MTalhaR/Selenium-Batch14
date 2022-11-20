@@ -18,7 +18,7 @@ public class Alerts {
 //        find the button click me for the alert and click on it
         WebElement simpleAlert = driver.findElement(By.xpath("//button[@onclick='myAlertFunction()']"));
         simpleAlert.click();
-        Thread.sleep(2000);
+        Thread.sleep(3000);
 //       Handling the alert
         Alert simpleAlert1 = driver.switchTo().alert();
         simpleAlert1.accept();
@@ -26,7 +26,7 @@ public class Alerts {
 //        find the button for confirmation alert and click on it
         WebElement confirmationAlert = driver.findElement(By.xpath("//button[@onclick='myConfirmFunction()']"));
         confirmationAlert.click();
-
+        Thread.sleep(3000);
         Alert confirmationAlert1 = driver.switchTo().alert();
         confirmationAlert1.dismiss();
 
@@ -34,7 +34,7 @@ public class Alerts {
 
         WebElement propmptAlert = driver.findElement(By.xpath("//button[@onclick='myPromptFunction()']"));
         propmptAlert.click();
-
+        Thread.sleep(3000);
 //        switch the focus to the alert
         Alert propm1 = driver.switchTo().alert();
         propm1.sendKeys("abracadabra");
