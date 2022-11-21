@@ -59,3 +59,6 @@ FOLLOWING CAN BE USED WITH ANY ABOVE TYPE OF XPATH  (AXES Methods)
 //tagname[@attribute='attribute value']//following-or-sibling::tagname
 
 
+---XPath for preceding, following
+//tagname[@attribute='attribute value']//preceding-sibling::tagname
+//tagname[@attribute='attribute value']//following-sibling::tagname

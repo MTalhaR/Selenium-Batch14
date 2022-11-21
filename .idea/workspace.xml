@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29922688-4e1e-422f-9ac4-9336b6df1f97" name="Changes" comment="class 09HW">
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class10/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class10/calender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class10/calenderPagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/HRM/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/HRM/SignupData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class10/HW.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Syntax/XPath variations" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/XPath variations" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class06/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class06/Alerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class07/ImplicitWaits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class07/ImplicitWaits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class08/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class08/HW1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
