@@ -45,7 +45,7 @@ public class HW {
         for (int i = 0; i < calender.size(); i++) {
             var date=calender.get(i).getText();
             if (date.equals("21")){
-                driver.findElement(By.xpath("//table[@class='ui-datepicker-calendar']/tbody/tr["+(i+1)+"]/td[1]")).click();
+                calender.get(i).click();
             }
         }
     }
