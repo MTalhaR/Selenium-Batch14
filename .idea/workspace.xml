@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29922688-4e1e-422f-9ac4-9336b6df1f97" name="Changes" comment="class 10 HW">
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/HRMTest/loginPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class11/ActionClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class11/ActionClassExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class11/DragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class11/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class11/KeyUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class11/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class11/Screenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/utils/CommonMethods.java" afterDir="false" />
+    <list default="true" id="29922688-4e1e-422f-9ac4-9336b6df1f97" name="Changes" comment="class 11">
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/HRM/loginPageWithPageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/HRMTest/loginPageTestWithPageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class12/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class12/jsExecutorHighlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class12/jsExecutorScroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class12/uploadFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/HRM/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/HRM/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Syntax/class10/HW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Syntax/class10/HW.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,19 +39,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Softwares/Selenium Installation/commons-io-2.6.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "MavenSettings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Softwares/Selenium Installation/commons-io-2.6.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -227,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669042545849</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="class 11">
+      <created>1669208652906</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1669208652906</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +263,7 @@
     <MESSAGE value="class 09" />
     <MESSAGE value="class 09HW" />
     <MESSAGE value="class 10 HW" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 10 HW" />
+    <MESSAGE value="class 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 11" />
   </component>
 </project>
