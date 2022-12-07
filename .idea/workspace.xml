@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29922688-4e1e-422f-9ac4-9336b6df1f97" name="Changes" comment="class 11">
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/HRM/loginPageWithPageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/HRMTest/loginPageTestWithPageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class12/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class12/jsExecutorHighlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class12/jsExecutorScroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class12/uploadFile.java" afterDir="false" />
+    <list default="true" id="29922688-4e1e-422f-9ac4-9336b6df1f97" name="Changes" comment="class 12">
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/ReviewClass04/TwoDExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/ReviewClass04/tableHRM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -229,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669208652906</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="class 12">
+      <created>1669278963871</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1669278963871</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,6 +267,7 @@
     <MESSAGE value="class 09HW" />
     <MESSAGE value="class 10 HW" />
     <MESSAGE value="class 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 11" />
+    <MESSAGE value="class 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 12" />
   </component>
 </project>
